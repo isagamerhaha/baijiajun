@@ -1,26 +1,26 @@
 # Unity generated
-projectCarb/Library/
-projectCarb/Temp/
+xiaoShiNiuDao/Library/
+xiaoShiNiuDao/Temp/
 
 # Visual Studio / MonoDevelop
-projectCarb/.vscode/
-projectCarb/*.sln
-projectCarb/*.csproj
-projectCarb/*.suo
-projectCarb/*.user
+xiaoShiNiuDao/.vscode/
+xiaoShiNiuDao/*.sln
+xiaoShiNiuDao/*.csproj
+xiaoShiNiuDao/*.suo
+xiaoShiNiuDao/*.user
 
 # Other
-projectCarb/*.tmp
-projectCarb/*.log
-projectCarb/.DS_Store
+xiaoShiNiuDao/*.tmp
+xiaoShiNiuDao/*.log
+xiaoShiNiuDao/.DS_Store
 
 # Unity specific
-projectCarb/Assets/StreamingAssets/
-projectCarb/UserSettings/EditorUserSettings.asset
-projectCarb/UserSettings
-projectCarb/Logs/*.log
-projectCarb/Logs/*.log
-projectCarb/.vs
-projectCarb/Logs
+xiaoShiNiuDao/Assets/StreamingAssets/
+xiaoShiNiuDao/UserSettings/EditorUserSettings.asset
+xiaoShiNiuDao/UserSettings
+xiaoShiNiuDao/Logs/*.log
+xiaoShiNiuDao/Logs/*.log
+xiaoShiNiuDao/.vs
+xiaoShiNiuDao/Logs
 *.log
-projectCarb/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+xiaoShiNiuDao/Logs/shadercompiler-UnityShaderCompiler.exe0.log
